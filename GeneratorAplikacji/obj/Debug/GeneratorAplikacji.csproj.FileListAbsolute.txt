@@ -1,0 +1,57 @@
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.exe.config
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.exe
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.pdb
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.AplikacjaWynikowa.resources
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.Generator.resources
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.JoinForm.resources
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.Properties.Resources.resources
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.GenerateResource.cache
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.CoreCompileInputs.cache
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.CopyComplete
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.exe
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.pdb
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.FormApp.resources
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\Guna.UI.dll
+C:\Users\bedna\Documents\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csprojAssemblyReference.cache
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.exe.config
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.exe
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.pdb
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csprojAssemblyReference.cache
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.AplikacjaWynikowa.resources
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.FormApp.resources
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.Generator.resources
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.JoinForm.resources
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.Properties.Resources.resources
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.GenerateResource.cache
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.CoreCompileInputs.cache
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.CopyComplete
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.exe
+C:\Users\bedna\Documents\KOPIA\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.pdb
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.exe.config
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.exe
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.pdb
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csprojAssemblyReference.cache
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.AplikacjaWynikowa.resources
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.FormApp.resources
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.Generator.resources
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.JoinForm.resources
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.Properties.Resources.resources
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.GenerateResource.cache
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.CoreCompileInputs.cache
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.CopyComplete
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.exe
+C:\Users\bedna\OneDrive\Dokumenty\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.pdb
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.exe.config
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.exe
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\bin\Debug\GeneratorAplikacji.pdb
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csprojAssemblyReference.cache
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.AplikacjaWynikowa.resources
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.FormApp.resources
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.Generator.resources
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.JoinForm.resources
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.Properties.Resources.resources
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.GenerateResource.cache
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.CoreCompileInputs.cache
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.csproj.CopyComplete
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.exe
+C:\Users\bedna\Documents\Semestr 6\GeneratorAplikacji\GeneratorAplikacji\obj\Debug\GeneratorAplikacji.pdb
